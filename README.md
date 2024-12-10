@@ -18,4 +18,4 @@ IDSL Lab is a part of the Department of Electrical and Information Engineering a
 
 [Publication, 2024.10.26] "HLQ: Hardware-Friendly Logarithmic Quantization Aware Training for Power-Efficient Low-Precision CNN Models", Accepted for publication in IEEE Access.
 
-[Publication, 2024.04.17] ["HyQ: Hardware-Friendly Post-Training Quantization for CNN-Transformer Hybrid Networks", Accepted to 33rd International Joint Conference on Artificial Intelligence](https://github.com/IDSL-SeoulTech/HyQ) (IJCAI 2024)
+[Publication, 2024.04.17] "HyQ: Hardware-Friendly Post-Training Quantization for CNN-Transformer Hybrid Networks", Accepted to 33rd International Joint Conference on Artificial Intelligence [Github](https://github.com/IDSL-SeoulTech/HyQ) (IJCAI 2024)
