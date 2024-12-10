@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=https://github.com/IDSL-SeoulTech/Cover_Page/blob/main/IDSL_Logo.png width="549" height="190"/>
+  <img src=https://github.com/IDSL-SeoulTech/.github/blob/main/Main%20page/IDSL_Logo.png width="549" height="190"/>
   <img src=https://github.com/IDSL-SeoulTech/.github/blob/main/Main%20page/seoultech%20image.svg width="150" height="150"/>
 </p>
 
