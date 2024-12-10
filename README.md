@@ -1,2 +1,2 @@
 # Cover_Page
-Repo for Github Main
+![IDSL_LOGO](https://github.com/IDSL-SeoulTech/Cover_Page/blob/main/IDSL_Logo.png)
