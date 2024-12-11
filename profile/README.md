@@ -6,9 +6,6 @@
 ## Welcome to IDSL
 IDSL Lab is a part of the Department of Electrical and Information Engineering at Seoul National University of Science and Technology, under the direction of Dr. Hyun Kim. We focus on implementing low-complexity multimedia processing and its applications through SoC designs and building hardware platforms that enable the artificial intelligence world. Also, computer architecture and memory systems for state-of-the-art technologies are included as main research interests.
 
-## About Us
-
-
 ## News
 **[Publication, 2024.12.10]** "GradQ-ViT: Robust and Efficient Gradient Quantization for Vision Transformers", Accepted to The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025)
 
