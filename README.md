@@ -12,7 +12,7 @@ IDSL Lab is a part of the Department of Electrical and Information Engineering a
 ## News
 [Publication, 2024.12.10] "GradQ-ViT: Robust and Efficient Gradient Quantization for Vision Transformers", Accepted to The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025)
 
-[Publication, 2024.11.20] "LowGradQ: Adaptive Gradient Quantization for Low-Bit CNN Training via Kernel Density Estimation-Guided Thresholding and Hardware-Efficient Stochastic Rounding Unit," Accepted to publication in Design, Automation and Test in Europe Conference 2025 (DATE 2025)
+[Publication, 2024.11.20] "LowGradQ: Adaptive Gradient Quantization for Low-Bit CNN Training via Kernel Density Estimation-Guided Thresholding and Hardware-Efficient Stochastic Rounding Unit," Accepted to publication in Design, Automation and Test in Europe Conference 2025 [[Github]](https://github.com/sbeom0929/LowGradQ) (DATE 2025)
 
 [Publication, 2024.11.20] "MCM-SR: Multiple Constant Multiplication-based CNN Streaming Hardware Architecture for Super-Resolution," Accepted for publication in IEEE Transactions on Very Large Scale Integration (VLSI) Systems.
 
