@@ -15,4 +15,6 @@ IDSL Lab is a part of the Department of Electrical and Information Engineering a
 
 **[Publication, 2024.04.17]** "[HyQ: Hardware-Friendly Post-Training Quantization for CNN-Transformer Hybrid Networks](https://openreview.net/forum?id=AQgnqevRCz)", Accepted to 33rd International Joint Conference on Artificial Intelligence (IJCAI 2024) [[Github]](https://github.com/IDSL-SeoulTech/HyQ)
 
+**[Publication, 2024.01.01]** "[HLQ: Hardware-Friendly Logarithmic Quantization Aware Training for Power-Efficient Low-Precision CNN Models](https://openreview.net/forum?id=OVNBPSKTqk)", IEEE Access, Volume: 12, Pages: 159611-159621, 2024 (IEEE Access 2024) [[Github]](https://github.com/IDSL-SeoulTech/HLQ)
+
 **[Publication, 2023.10.18]** "[V-SKP: Vectorized Kernel-based Structured Kernel Pruning for Accelerating Deep Convolutional Neural Networks](https://ieeexplore.ieee.org/document/10292653)", Accepted for publication in IEEE Access. [[Github]](https://github.com/IDSL-SeoulTech/V-SKP)
