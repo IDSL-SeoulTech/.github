@@ -13,6 +13,8 @@ IDSL Lab is a part of the Department of Electrical and Information Engineering a
 
 **[Publication, 2024.09.26]** "[L-TTA: Lightweight Test-Time Adaptation Using a Versatile Stem Layer](https://openreview.net/forum?id=G7NZljVOol&referrer=%5Bthe%20profile%20of%20Hyun%20Kim%5D(%2Fprofile%3Fid%3D~Hyun_Kim3))", Accepted to Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024) [[Github]](https://github.com/janus103/L_TTA)
 
+**[Publication, 05.June.2024]** "[DCT-ViT: High-Frequency Pruned Vision Transformer With Discrete Cosine Transform](https://ieeexplore.ieee.org/document/10549904)", IEEE Access, Volume: 12, Pages: 80386-80396, 2024 (IEEE Access 2024) [[Github]](https://github.com/IDSL-SeoulTech/DCT-ViT)
+
 **[Publication, 2024.04.17]** "[HyQ: Hardware-Friendly Post-Training Quantization for CNN-Transformer Hybrid Networks](https://openreview.net/forum?id=AQgnqevRCz)", Accepted to 33rd International Joint Conference on Artificial Intelligence (IJCAI 2024) [[Github]](https://github.com/IDSL-SeoulTech/HyQ)
 
 **[Publication, 2024.01.01]** "[HLQ: Hardware-Friendly Logarithmic Quantization Aware Training for Power-Efficient Low-Precision CNN Models](https://openreview.net/forum?id=OVNBPSKTqk)", IEEE Access, Volume: 12, Pages: 159611-159621, 2024 (IEEE Access 2024) [[Github]](https://github.com/IDSL-SeoulTech/HLQ)
